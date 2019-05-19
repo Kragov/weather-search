@@ -1,0 +1,22 @@
+.weather-container {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.weather-container h3 {
+    display: block;
+}
+
+.weather-container h3 img,
+.weather-container h3 span {
+    display: inline-block;
+}
+
+.error {
+    display: block;
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 50%;
+    font-size: 50px;
+}

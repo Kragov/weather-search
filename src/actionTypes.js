@@ -1,0 +1,3 @@
+export const SEARCH_SIMILAR = "SEARCH_SIMILAR";
+export const SEARCH_SUBMIT = "SEARCH_SUBMIT";
+export const SEARCH_ERROR = "SEARCH_ERROR";
